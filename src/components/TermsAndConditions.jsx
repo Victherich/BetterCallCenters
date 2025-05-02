@@ -123,6 +123,7 @@ const TermsAndConditions = () => {
       <ContactInfo>
         <Paragraph>For any questions regarding these Terms, contact us at:</Paragraph>
         <Paragraph>📧 <EmailLink href="mailto:sales@bettercallcenters.com">sales@bettercallcenters.com</EmailLink></Paragraph>
+        <Paragraph>📞 <EmailLink>+1 810-379-9100</EmailLink></Paragraph>
       </ContactInfo>
     </TermsContainer>
   );

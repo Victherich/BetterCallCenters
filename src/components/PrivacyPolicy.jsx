@@ -114,7 +114,15 @@ const PrivacyPolicy = () => {
       <ContactInfo>
         <Paragraph>For any privacy-related inquiries, contact us at:</Paragraph>
         <Paragraph>📧 <EmailLink href="mailto:sales@bettercallcenters.com">sales@bettercallcenters.com</EmailLink></Paragraph>
+        <Paragraph>📞 <EmailLink>+1 810-379-9100</EmailLink></Paragraph>
       </ContactInfo>
+<br/>
+      <Paragraph>
+        
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, excluding aggregators and providers of the Text Messaging services.
+<br/>
+By using our website and services, you agree to this Privacy Policy. If you do not agree, please refrain from using our services.
+      </Paragraph>
     </PrivacyContainer>
   );
 };
