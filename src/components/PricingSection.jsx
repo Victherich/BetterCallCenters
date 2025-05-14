@@ -87,7 +87,8 @@ const PricingSection = () => {
           checked={isQuarterly}
           onChange={() => setIsQuarterly(!isQuarterly)}
         />
-        <SwitchLabel>Quarterly</SwitchLabel>
+        <SwitchLabel>Quarterly Discount
+        </SwitchLabel>
       </SwitchWrapper>
 
       {isQuarterly ? <PricingTable /> : <PricingTable2 />}
